@@ -1,0 +1,193 @@
+﻿
+{
+    "name" : "daisen",
+    "maxBlock" : 5,
+    "BPM"      : 120,
+    "offset"   : 0,
+    "notes"    : [
+        {
+            "LPB" : 0,
+            "num" : 0,
+            "block" : 0,
+            "type"  : 1,
+            "notes" : [
+            ]
+        },
+        {
+            "LPB" : 8,
+            "num" : 17,
+            "block" : 3,
+            "type"  : 1,
+            "notes" : [
+            ]
+        },
+        {
+            "LPB" : 8,
+            "num" : 34,
+            "block" : 3,
+            "type"  : 1,
+            "notes" : [
+            ]
+        },
+        {
+            "LPB" : 8,
+            "num" : 52,
+            "block" : 3,
+            "type"  : 1,
+            "notes" : [
+            ]
+        },
+        {
+            "LPB" : 8,
+            "num" : 69,
+            "block" : 3,
+            "type"  : 1,
+            "notes" : [
+            ]
+        },
+        {
+            "LPB" : 8,
+            "num" : 85,
+            "block" : 3,
+            "type"  : 1,
+            "notes" : [
+            ]
+        },
+        {
+            "LPB" : 8,
+            "num" : 102,
+            "block" : 3,
+            "type"  : 1,
+            "notes" : [
+            ]
+        },
+        {
+            "LPB" : 8,
+            "num" : 120,
+            "block" : 3,
+            "type"  : 1,
+            "notes" : [
+            ]
+        },
+        {
+            "LPB" : 8,
+            "num" : 137,
+            "block" : 3,
+            "type"  : 1,
+            "notes" : [
+            ]
+        },
+        {
+            "LPB" : 8,
+            "num" : 154,
+            "block" : 3,
+            "type"  : 1,
+            "notes" : [
+            ]
+        },
+        {
+            "LPB" : 8,
+            "num" : 172,
+            "block" : 3,
+            "type"  : 1,
+            "notes" : [
+            ]
+        },
+        {
+            "LPB" : 8,
+            "num" : 190,
+            "block" : 3,
+            "type"  : 1,
+            "notes" : [
+            ]
+        },
+        {
+            "LPB" : 8,
+            "num" : 207,
+            "block" : 3,
+            "type"  : 1,
+            "notes" : [
+            ]
+        },
+        {
+            "LPB" : 8,
+            "num" : 224,
+            "block" : 3,
+            "type"  : 1,
+            "notes" : [
+            ]
+        },
+        {
+            "LPB" : 8,
+            "num" : 241,
+            "block" : 3,
+            "type"  : 1,
+            "notes" : [
+            ]
+        },
+        {
+            "LPB" : 8,
+            "num" : 248,
+            "block" : 3,
+            "type"  : 1,
+            "notes" : [
+            ]
+        },
+        {
+            "LPB" : 8,
+            "num" : 250,
+            "block" : 3,
+            "type"  : 1,
+            "notes" : [
+            ]
+        },
+        {
+            "LPB" : 8,
+            "num" : 254,
+            "block" : 3,
+            "type"  : 1,
+            "notes" : [
+            ]
+        },
+        {
+            "LPB" : 8,
+            "num" : 257,
+            "block" : 3,
+            "type"  : 1,
+            "notes" : [
+            ]
+        },
+        {
+            "LPB" : 8,
+            "num" : 259,
+            "block" : 3,
+            "type"  : 1,
+            "notes" : [
+            ]
+        },
+        {
+            "LPB" : 8,
+            "num" : 264,
+            "block" : 3,
+            "type"  : 1,
+            "notes" : [
+            ]
+        },
+        {
+            "LPB" : 8,
+            "num" : 268,
+            "block" : 3,
+            "type"  : 1,
+            "notes" : [
+            ]
+        },
+        {
+            "LPB" : 7,
+            "num" : 271,
+            "block" : 4,
+            "type"  : 1,
+            "notes" : [
+            ]
+        }
+    ]
+}
